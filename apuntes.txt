@@ -1,0 +1,11 @@
+npm i -D webpack webpack-cli webpack-node-externals wenpack-shell-plugin
+
+Instalación de webpack
+
+npm i -D eslint jest ts-jest @types/jest supertest
+
+reglas para seguir en codigo limpio y jest como libreria/framework de testing unitario
+
+npx eslint --init // configuración de eslint
+
+
