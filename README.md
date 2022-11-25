@@ -75,22 +75,22 @@ npm i --save -dev @types/express y todos los demas
 @type/jest, express, node, eslint/eslint-plugin nos sirven como configuracion de TypeScript con los distintos frameworks y librerias que utilizamos, para que no haya conflict entre estas, para que estas entiendan el lenguaje TypeScript
 
 npm i --save-dev concurrently
-concurrently: sirve para correr varios comandos al tiempo, entonces es ejecutar varios scripts en paralelo
+sirve para correr varios comandos al tiempo, entonces es ejecutar varios scripts en paralelo
 
 npm i --save-dev eslint
-eslint: sirve para estandarizar el uso de JS y evitar errores, nos ayuda a aplicar buenas practicas en el proyecto, 
+sirve para estandarizar el uso de JS y evitar errores, nos ayuda a aplicar buenas practicas en el proyecto, 
 
 npm i --save-dev nodemon
-nodemon: sirve para que se actualize el endpoint o el servidor que esta corriendo la aplicación cada vez que hay un cambio en los archivos del mismo
+sirve para que se actualize el endpoint o el servidor que esta corriendo la aplicación cada vez que hay un cambio en los archivos del mismo
 
 npm i --save-dev jest
-jest: para las pruebas que le aplicaremos al proyecto, para el testing del mismo.
+para las pruebas que le aplicaremos al proyecto, para el testing del mismo.
 
 npm i --save -dev serve
-serve: convierte nuestro directorio de trabajo actual en uno virtual, el directorio estará en el localhost
+convierte nuestro directorio de trabajo actual en uno virtual, el directorio estará en el localhost
 
 npm i --save -dev webpack
-webpack: sirve como emnpaquetador de modulos, tendremos distintos archivos que necesitamos ordenar de manera adecuada, y para ello usamos esta herramienta
+sirve como emnpaquetador de modulos, tendremos distintos archivos que necesitamos ordenar de manera adecuada, y para ello usamos esta herramienta
 
 ## Scripts
 
